@@ -1,0 +1,22 @@
+[{
+    "id": 1,
+    "nombre":"Televisor Led 3D Sony 42",
+    "descripcion":"Descripcion:Televisor Led 3D Sony 42 +Control inteligente",
+    "precio": 299900,
+    "imagen": "https://picsum.photos/id/2/200/200" 
+},
+{
+    "id": 2,
+    "nombre":"Televisor LED LG 42",
+    "descripcion":"Descripcion:Televisor LED LG 42 + Control inteligente",
+    "precio":250000,
+    "imagen": "https://picsum.photos/id/257/200/200" 
+},
+{
+    "id": 3,
+    "nombre":"Televisor LED Toshiba 32",
+    "descripcion":"Descripcion:Televisor Led LG 40 Full HD+Control inteligente",
+    "precio":199990,
+    "imagen": "https://picsum.photos/id/22/200/200" 
+}
+]
